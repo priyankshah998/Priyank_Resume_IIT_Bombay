@@ -632,11 +632,11 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 {C:/Users/Win/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Profile.jpg
 >] [2] (iit_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 3675 strings out of 493305
- 51205 string characters out of 3130672
+ 3677 strings out of 493305
+ 51224 string characters out of 3130672
  131076 words of memory out of 3000000
- 7168 multiletter control sequences out of 15000+200000
- 15069 words of font info for 34 fonts, out of 3000000 for 9000
+ 7169 multiletter control sequences out of 15000+200000
+ 16654 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,35p,279b,347s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Win/AppData/Local/Programs/MiKTeX 2.9/fonts/
@@ -646,7 +646,7 @@ e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Win/AppData/Local/Programs/MiKTeX 2.
 eX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Win/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Win/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on iit_resume.pdf (2 pages, 90217 bytes).
+Output written on iit_resume.pdf (2 pages, 91712 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
