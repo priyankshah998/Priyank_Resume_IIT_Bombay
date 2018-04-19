@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2018.4.19)  19 APR 2018 23:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630) (preloaded format=pdflatex 2018.4.19)  19 APR 2018 23:49
 entering extended mode
 **./iit_resume.tex
 (iit_resume.tex
@@ -607,21 +607,29 @@ Package pdftex.def Info: Profile.jpg  used on input line 53.
 Overfull \vbox (84.11012pt too high) detected at line 53
  []
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 [1
 
- <./Profile.jpg>] (iit_resume.aux) ) 
+{C:/Users/Win/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Profile.jpg
+>] (iit_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 3578 strings out of 493305
- 49836 string characters out of 3130672
- 121076 words of memory out of 3000000
- 7086 multiletter control sequences out of 15000+200000
- 6886 words of font info for 24 fonts, out of 3000000 for 9000
+ 3586 strings out of 493305
+ 49932 string characters out of 3130672
+ 122076 words of memory out of 3000000
+ 7090 multiletter control sequences out of 15000+200000
+ 10109 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,35p,279b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on iit_resume.pdf (1 page, 26101 bytes).
+{C:/Users/Win/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/
+dvips/base/8r.enc}<C:/Users/Win/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/times/utmb8a.pfb><C:/Users/Win/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/urw/times/utmr8a.pfb>
+Output written on iit_resume.pdf (1 page, 48891 bytes).
 PDF statistics:
- 7 PDF objects out of 1000 (max. 8388607)
+ 16 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
